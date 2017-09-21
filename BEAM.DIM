@@ -1,0 +1,8 @@
+ Concrete + Ibeam + Reinforcement
+ Filename :BEAM.DIM     
+ Flange,m :   3.0499999999999999E-002
+ Depth,m  :  0.29149999999999998     
+ Width,m  :  0.26600000000000001     
+ Web,m    :   1.9500000000000000E-002
+ Vertical concrete from ibeam,m   :   7.9500000000000001E-002
+ Horizontal concrete from ibeam,m :   7.8750000000000001E-002

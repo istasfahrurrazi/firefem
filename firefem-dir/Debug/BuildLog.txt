@@ -1,0 +1,12 @@
+------ Build started: Project: firefem, Configuration: Debug|Win32 ------
+
+Compiling with Intel Fortran 8.1...
+ifort /nologo /Zi /Od /module:"Debug/" /object:"Debug/" /traceback /check:bounds /libs:qwin /dbglibs /c  "E:\My Official Work\RESEARCH\Fire\2008\Firefem\general.for"
+ifort /nologo /Zi /Od /module:"Debug/" /object:"Debug/" /traceback /check:bounds /libs:qwin /dbglibs /c  "E:\My Official Work\RESEARCH\Fire\2008\Firefem\automeshview.for"
+Linking...
+Link /OUT:"Debug/firefem.exe" /INCREMENTAL:NO /NOLOGO /DEBUG /PDB:"Debug/firefem.pdb" /SUBSYSTEM:WINDOWS  Debug/temperatureprofile.obj Debug/design13.obj "Debug/sorting the node temperature.obj" Debug/fin92.obj Debug/printing.obj Debug/general.obj Debug/automeshview.obj
+Link: executing 'link'
+
+
+firefem build succeeded.
+

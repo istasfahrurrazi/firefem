@@ -1,0 +1,8 @@
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    THE TIME AND THE STRENGTH OF THE COLUMN
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                          FIRE        AVERAGE
+  TIME     STRENGTH    TEMPERATURE  TEMPERATURE
+  (MIN)    (NEWTON)     (CELCIUS)    (CELCIUS)
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   0.00   5465447.5127     20.00     20.00

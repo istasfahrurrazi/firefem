@@ -1,0 +1,12 @@
+ GLOBAL INFORMATION DATA USED TO RUN THE PROGRAM
+ -----------------------------------------------
+ THICKNESS,m                    =                  1.0000000000
+ TIME INTERVAL IN SECONDS       =                  0.0100000000
+ CONVECTIVE HEAT TRANS COEFF-NT =                  0.9000000000
+ EPSILONB (EMMISIVITY)          =                  0.9000000000
+ TIME IN HOURS ,MAXIMUM         =                  4.0000000000
+ INITIAL TEMPERATURE (CELCIUS)  =                 20.0000000000
+ PRINT RESULTS IN EVERY X SECS  =                600.0000000000
+ FIRE TEMPERATURE (IF 0. USE TF)=                  0.0000000000
+ APPLIED LOAD (NEWTON)          =              60000.0000000000
+ MOISTURE CONTENT (%)           =                 30.0000000000
